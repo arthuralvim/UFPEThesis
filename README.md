@@ -25,25 +25,25 @@ Para baixar os templates basta clonar o repositório:
 
 ou
 
-Fazer o (download)[https://github.com/arthuralvim/UFPEThesis/archive/master.zip] através do próprio github.com.
+Fazer o [download](https://github.com/arthuralvim/UFPEThesis/archive/master.zip) através do próprio github.com.
 
 Uso
 =====
 
-É altamente aconselhável ler o (Guia do Usuário)[https://github.com/arthuralvim/UFPEThesis/raw/master/manual.pdf]. Isto pode custar-lhe uma
+É altamente aconselhável ler o [Guia do Usuário](https://github.com/arthuralvim/UFPEThesis/raw/master/manual.pdf). Isto pode custar-lhe uma
 meia-hora e poupar-lhe umas outras tantas! Entretanto, se você é daqueles
 impacientes como eu ou está com pouco tempo, aí vai o guia minimalista:
 
-1 - Clone o repositório ou baixe e descompacte os arquivos.
-2 - Crie o seu texto a partir do arquivo template.tex distribuído junto com a classe.
+1. Clone o repositório ou baixe e descompacte os arquivos.
+2. Crie o seu texto a partir do arquivo template.tex distribuído junto com a classe.
     O template possui comentários e é, em certa medida, auto-explicativo.
 
 Dicas
 =====
 
-1 - Utilize ferramentas para fazer a gerência das suas bibliografias. Ex: JabRef, BibTeXpress.
-2 - Para produção de algoritmos em pseudo-linguagem, utilize o pacote programma.
-3 - Tente modularizar o máximo que puder. Facilitará encontrar erros durante as compilações.
+1. Utilize ferramentas para fazer a gerência das suas bibliografias. Ex: JabRef, BibTeXpress.
+2. Para produção de algoritmos em pseudo-linguagem, utilize o pacote programma.
+3. Tente modularizar o máximo que puder. Facilitará encontrar erros durante as compilações.
 
 Final
 =====
