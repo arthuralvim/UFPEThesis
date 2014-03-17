@@ -16,8 +16,8 @@ de textos, a UFPEThesis é suficientemente configurável e facilmente
 adaptável para ser útil a alunos de praticamente todos os cursos da UFPE e
 também de outras instituições.
 
-Uso
-=====
+Download
+========
 
 Para baixar os templates basta clonar o repositório:
 
@@ -25,12 +25,12 @@ Para baixar os templates basta clonar o repositório:
 
 ou
 
-Fazer o download através do próprio github.com
+Fazer o (download)[https://github.com/arthuralvim/UFPEThesis/archive/master.zip] através do próprio github.com.
 
 Uso
 =====
 
-É altamente aconselhável ler o Guia do Usuário. Isto pode custar-lhe uma
+É altamente aconselhável ler o (Guia do Usuário)[https://github.com/arthuralvim/UFPEThesis/raw/master/manual.pdf]. Isto pode custar-lhe uma
 meia-hora e poupar-lhe umas outras tantas! Entretanto, se você é daqueles
 impacientes como eu ou está com pouco tempo, aí vai o guia minimalista:
 
@@ -44,8 +44,6 @@ Dicas
 1 - Utilize ferramentas para fazer a gerência das suas bibliografias. Ex: JabRef, BibTeXpress.
 2 - Para produção de algoritmos em pseudo-linguagem, utilize o pacote programma.
 3 - Tente modularizar o máximo que puder. Facilitará encontrar erros durante as compilações.
-
-
 
 Final
 =====
